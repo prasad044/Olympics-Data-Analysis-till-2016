@@ -6,3 +6,7 @@ One of the biggest international sporting events, the Olympics captivates specta
 
 ## Dataset 📔
 [Kaggle link: Olympics-Data-Analysis-till-2020](https://www.kaggle.com/datasets/nitishsharma01/olympics-124-years-datasettill-2020/data?select=Athletes_summer_games.csv)
+
+## Deployment Link
+
+[Deployment link: Olympics-Data-Analysis-till-2020](https://olympics-data-analysis-till-2020-kag39iaqjmz9gzx2cfmamb.streamlit.app/)
