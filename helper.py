@@ -1,4 +1,5 @@
 import numpy as np
+import scipy
 
 def fetch_medal_tally(data, year, country):
     medal_df = data.drop_duplicates(subset = ['Team', 'NOC', 'Games', 'Year', 'City', 'Sport', 'Event', 'Medal'])
